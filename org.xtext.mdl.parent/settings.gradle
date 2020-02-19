@@ -1,0 +1,3 @@
+include 'org.xtext.mdl'
+include 'org.xtext.mdl.ide'
+include 'org.xtext.mdl.tests'
